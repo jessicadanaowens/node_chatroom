@@ -1,0 +1,15 @@
+{
+  "name": "chatroom",
+  "version": "1.0.0",
+  "description": "an app that uses http and webSocket for a chatroom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jess Owens",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^0.9.6",
+    "mime": "~1.2.7"
+  }
+}
